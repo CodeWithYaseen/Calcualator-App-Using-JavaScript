@@ -6,7 +6,7 @@ A simple, clean, and fully functional **Calculator** built using **HTML**, **CSS
 
 ## 🌐 Live Demo
 
-🔗 [View Live Calculator](https://CodeWithYaseen.github.io/Calculator-App-Using-JavaScript/)  
+🔗 [View Live Calculator](https://codewithyaseen.github.io/Calcualator-App-Using-JavaScript/)  
 <!-- Replace '#' with your live demo link -->
 
 ---
