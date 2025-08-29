@@ -1,51 +1,41 @@
-# 🧮 Calculator App Using JavaScript  
+# 🧮 Calculator Web App
 
-
-A simple, clean, and responsive **Calculator App** built with **HTML, CSS, and JavaScript** ✨.  
-This project demonstrates arithmetic operations and DOM manipulation in JavaScript with a modern UI.  
+A simple, clean, and fully functional **Calculator** built using **HTML**, **CSS**, and **JavaScript**. This calculator handles basic arithmetic operations and features a responsive UI with a modern design — perfect for learning or embedding into larger web projects.
 
 ---
 
-## 🚀 Live Demo
-👉 [Click Here to Try](https://CodeWithYaseen.github.io/Calcualator-App-Using-JavaScript/)  
+## 🌐 Live Demo
+
+🔗 [View Live Calculator](https://CodeWithYaseen.github.io/Calculator-App-Using-JavaScript/)  
+<!-- Replace '#' with your live demo link -->
 
 ---
 
-## 🌟 Features
-✅ Perform basic operations: **Addition, Subtraction, Multiplication, Division, Modulus**  
-✅ Clear all & delete single digit functions  
-✅ User-friendly & responsive UI (Bootstrap + Custom CSS)  
-✅ Lightweight & fast  
+## ✨ Features
+
+- ➕ Basic operations: Addition, Subtraction, Multiplication, Division  
+- 🧠 Clear and real-time input/output display  
+  ✅ Perform basic operations: **Addition, Subtraction, Multiplication, Division, Modulus**  
+  ✅ Clear all & delete single digit functions  
+  ✅ User-friendly & responsive UI  
+  ✅ Lightweight & fast  
+- 🎨 Modern, minimalistic, and responsive design  
 
 ---
 
-## 🛠️ Built With
-- ⚡ **HTML5** – Structure  
-- 🎨 **CSS3 / Bootstrap** – Styling & Layout  
-- 🧑‍💻 **JavaScript (ES6)** – Logic & Functionality  
+## 🛠️ Technologies Used
+
+- **HTML5** – calculator structure and button layout  
+- **CSS3** – styling, grid system, button hover effects  
+- **JavaScript** – logic for performing calculations and updating display  
 
 ---
 
-## 📸 Screenshots  
+## 🚀 Getting Started
 
-### UI Preview  
-![App Screenshot](./Screenshot.png)  
+To run the calculator locally:
 
----
-
-## 📂 Project Structure
-Calcualator-App-Using-JavaScript/
-│── index.html       # Main HTML file (structure of app)
-│── style.css        # CSS file (styling and UI design)
-│── app.js           # JavaScript file (calculator logic)
-│── screenshot.png   # Screenshot of the calculator UI
-│── README.md        # Documentation of the project
-
-
-
----
-
-## ⚡ Installation & Usage
-1. Clone the repository  
+1. **Clone the Repository**
    ```bash
-   git clone https://github.com/CodeWithYaseen/Calcualator-App-Using-JavaScript.git
+   git clone https://github.com/CodeWithYaseen/Calculator-App-Using-JavaScript.git
+   cd calculator-app
